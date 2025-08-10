@@ -14,12 +14,12 @@ Interactive Power BI dashboard analyzing Pixar's movie performance from financia
 - Dynamic slicers and filters for time range and film categories.
 
 ## Screenshots
-![Financial Dashboard](images/Pixar_Financial_Dashboard.png)
-![Creative Dashboard](images/Pixar_Creative_Dashboard.png)
-
+![Financial Dashboard](Pixar_Financial_Dashboard.png)
+![Creative Dashboard](Pixar_Creative_Dashboard.png)
 
 ## Files
-- `Pixar_Project.pbix` — Full Power BI project file.
+- [Pixar_Project.pbix](Pixar_Project.pbix) — Full Power BI project file.
+
 
 ---
 *Note: Screenshots are included above. Source data not included due to file size/licensing.*
